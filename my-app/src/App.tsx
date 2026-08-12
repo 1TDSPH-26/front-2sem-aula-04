@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<< HEAD
 import Diego from "./components/None/Diego";
 
@@ -13,19 +14,28 @@ export default function App(){
 =======
 <<<<<<< HEAD
 //vamos aprender a criar um componente funcional
+=======
+>>>>>>> f09231565e902404f35eaea153d611b13f599d42
 
-import Luigi from "./componentes/Nome/Luigi";
 
-export default function App () {
+// Vamos aprender a criar um componente funcional em react
+
+import Fabricio from "./components/Nome/Fabricio";
+import Giovanni from "./components/Nome/Giovanni";
+
+export default function App() {
+  
 
   return (
   <div>
-    <h1>Ola mundo</h1>
-    <Luigi/>
-    </div>
-    
-  );
+    <h1>Olá, Mundo!</h1>
+    <Giovanni/>
+    <Fabricio />
+  </div>
+);
+
 }
+<<<<<<< HEAD
 =======
 
 
@@ -46,3 +56,5 @@ export default function App() {
 } 
 >>>>>>> 75b7f0f8bfa00069f04ab62733bef7e162e433bf
 >>>>>>> 5214d2a53846ac4d01c29c32d102efe44b1134bd
+=======
+>>>>>>> f09231565e902404f35eaea153d611b13f599d42
